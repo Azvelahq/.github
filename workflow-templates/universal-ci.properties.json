@@ -1,0 +1,8 @@
+{
+  "name": "Azvela · Universal CI",
+  "description": "Run the repository-owned make ci target. Configure this target before installing.",
+  "iconName": "octicon shield-check",
+  "filePatterns": [
+    "^Makefile$"
+  ]
+}

@@ -1,0 +1,26 @@
+name: Request a private contact
+description: Request a private channel without sharing sensitive details.
+title: '[Contact] Private channel request'
+body:
+- type: markdown
+  attributes:
+    value: This issue is public. Select a category only. Do not describe the underlying incident, identify
+      people or provide contact details.
+- type: dropdown
+  id: category
+  attributes:
+    label: Contact category
+    options:
+    - Security
+    - Community moderation
+    - Other private matter
+  validations:
+    required: true
+- type: checkboxes
+  id: acknowledgment
+  attributes:
+    label: Public issue acknowledgment
+    options:
+    - label: I will not include sensitive details, names, evidence or contact information in this public
+        issue.
+      required: true

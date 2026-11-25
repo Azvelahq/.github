@@ -1,0 +1,8 @@
+{
+  "name": "Azvela · Research validation",
+  "description": "Run the repository-owned make research-validate target. Configure the target before installing.",
+  "iconName": "octicon shield-check",
+  "filePatterns": [
+    "^Makefile$"
+  ]
+}

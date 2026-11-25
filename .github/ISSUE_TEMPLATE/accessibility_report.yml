@@ -1,0 +1,29 @@
+name: Accessibility report
+description: Describe a barrier to using the project.
+title: '[Accessibility] '
+body:
+- type: markdown
+  attributes:
+    value: Do not include secrets, personal information, private code or vulnerability details. For security
+      concerns, follow the [security policy](https://github.com/Azvelahq/.github/blob/main/SECURITY.md).
+- type: input
+  id: context
+  attributes:
+    label: Environment
+    description: Device, version and assistive technology if relevant.
+  validations:
+    required: true
+- type: textarea
+  id: barrier
+  attributes:
+    label: Barrier and impact
+    description: Steps, observed behavior and expected accessible behavior.
+  validations:
+    required: true
+- type: textarea
+  id: evidence
+  attributes:
+    label: Optional evidence
+    description: Redacted screenshots or recordings, if safe.
+  validations:
+    required: false

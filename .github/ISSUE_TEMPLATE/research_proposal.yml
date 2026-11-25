@@ -1,0 +1,29 @@
+name: Research proposal
+description: Propose a testable public research question.
+title: '[Research] '
+body:
+- type: markdown
+  attributes:
+    value: Do not include secrets, personal information, private code or vulnerability details. For security
+      concerns, follow the [security policy](https://github.com/Azvelahq/.github/blob/main/SECURITY.md).
+- type: textarea
+  id: question
+  attributes:
+    label: Research question
+    description: State a testable hypothesis.
+  validations:
+    required: true
+- type: textarea
+  id: method
+  attributes:
+    label: Method and baseline
+    description: Proposed experiment, baseline, metrics and constraints.
+  validations:
+    required: true
+- type: textarea
+  id: evidence
+  attributes:
+    label: Evidence and risks
+    description: Expected evidence, data rights, limitations and risk.
+  validations:
+    required: true

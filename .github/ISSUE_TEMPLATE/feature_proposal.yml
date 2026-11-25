@@ -1,0 +1,29 @@
+name: Feature proposal
+description: Propose a product or engineering improvement.
+title: '[Proposal] '
+body:
+- type: markdown
+  attributes:
+    value: Do not include secrets, personal information, private code or vulnerability details. For security
+      concerns, follow the [security policy](https://github.com/Azvelahq/.github/blob/main/SECURITY.md).
+- type: textarea
+  id: problem
+  attributes:
+    label: Problem
+    description: Who is affected and what problem needs solving?
+  validations:
+    required: true
+- type: textarea
+  id: proposal
+  attributes:
+    label: Proposed direction
+    description: Describe the idea and expected benefit.
+  validations:
+    required: true
+- type: textarea
+  id: tradeoffs
+  attributes:
+    label: Alternatives and tradeoffs
+    description: Consider risks, accessibility and privacy.
+  validations:
+    required: false
