@@ -21,3 +21,17 @@ References: [community defaults](https://docs.github.com/en/communities/setting-
 ## Origin film release review
 
 Confirm authorization to publish the complete source film, including its audio and the secondary CORPORATION wordmark, before publication. The poster and silent excerpt omit that secondary line; the full MP4 is unmodified. If the full film is not approved, remove it and its links and update the media manifest and validator before committing. Review audio content for caption or transcript requirements, and evaluate the original visual glitches for photosensitivity. A visual description is included; no audio transcript or WCAG conformance claim has been made.
+
+## Cryptographic commit integrity
+
+Azvela maintainers should sign commits using a dedicated
+cryptographic signing identity.
+
+Authentication and signing keys should remain independent.
+Private keys must never be committed or shared.
+
+Changes to protected branches must pass the applicable
+repository rules, automated checks and review requirements.
+
+A verified signature establishes commit authenticity and
+integrity, not correctness or authorization for production.
