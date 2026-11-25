@@ -1,46 +1,53 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Azvelahq/.github/main/assets/brand/azvela-corporate-banner.png" width="720" alt="Azvela — retro-futurist emblem with red, green and violet stripes and a four-point star" />
-  <h1>Azvela</h1>
-  <p><strong>A Future Worth Feeling.</strong></p>
-  <p>Technology should make the human experience richer, not smaller.</p>
+  <a href="https://github.com/Azvelahq/.github/blob/main/docs/ORIGIN.md"><img src="https://raw.githubusercontent.com/Azvelahq/.github/main/assets/brand/azvela-origin-poster.jpg" width="880" alt="Azvela: a luminous ivory A, a four-point star and red, green and violet stripes against black. Explore the origin film." /></a>
+  <h1>A Future Worth Feeling.</h1>
+  <p><strong>Technology for a world that feels more human.</strong></p>
+  <p>We are Azvela. An independent technology company in the making, exploring the future of human connection, creative expression and intelligent systems.</p>
+  <p><a href="https://github.com/Azvelahq/.github/blob/main/docs/ORIGIN.md">Experience our origin film</a> · <a href="https://github.com/Azvelahq/.github/blob/main/docs/PRINCIPLES.md">How we build</a> · <a href="https://github.com/Azvelahq/.github/blob/main/docs/RESEARCH_PRINCIPLES.md">Our research</a></p>
 </div>
 
 ---
 
-## A different kind of future.
+## The future should feel like yours.
 
-Azvela is building digital experiences at the intersection of human connection, creativity and technology. We believe that progress is measured not only by what technology can do, but by what it enables people to become.
+Somewhere between the things we make and the people we meet, technology can become something deeply personal. It should give us more room to imagine, more freedom to express ourselves and more ways to belong.
 
-We bring together product design, software engineering and exploratory research with a simple ambition: make the extraordinary feel natural.
+That is the future we want to build. Not one that demands more of your attention, but one that gives you more reasons to care.
 
-## The worlds we are building
+## Three worlds. One belief.
 
-| Product | Direction |
+| World | What we are exploring |
 | :--- | :--- |
-| **Pandly** | Communities, imagination and creative self-expression. |
-| **Kyubi** | Meaningful discovery, connection and belonging. |
-| **Crownchill** | Social experiences shaped by play, identity and culture. |
+| **Pandly** | A place for imagination, communities and the identities we choose to create. |
+| **Kyubi** | A more personal way to discover people, find common ground and belong. |
+| **Crownchill** | Where play, friendship and self-expression meet. |
 
-These are product directions, not announcements of general availability.
+These are product directions in development, not announcements of public availability.
 
-## Beyond the interface
+## The work behind the wonder.
 
-Our engineering interests span distributed systems, privacy-preserving infrastructure, artificial intelligence, developer tools and human-computer interaction. Our research direction is to explore what is possible, test what is claimed and share what can responsibly be shared.
+We are exploring the systems that make ambitious experiences possible: distributed computing, privacy-preserving infrastructure, artificial intelligence, efficient runtimes and human-computer interaction.
 
-## What we stand for
+The question is not just what technology can do. It is what it makes possible for people — and whether the evidence supports our claims.
 
-**People first.** Technology serves people, not the other way around.  
-**Privacy by design.** Trust should be earned through deliberate technical choices.  
-**Creative freedom.** People deserve room to express themselves.  
-**Evidence before claims.** Engineering and research must remain accountable to reality.
+[Engineering principles](https://github.com/Azvelahq/.github/blob/main/docs/PRINCIPLES.md) · [Research integrity](https://github.com/Azvelahq/.github/blob/main/docs/RESEARCH_PRINCIPLES.md) · [Responsible AI](https://github.com/Azvelahq/.github/blob/main/docs/RESPONSIBLE_AI.md)
 
-## Explore Azvela
+## What we refuse to compromise.
 
-[Engineering principles](https://github.com/Azvelahq/.github/blob/main/docs/PRINCIPLES.md) · [Research](https://github.com/Azvelahq/.github/blob/main/docs/RESEARCH_PRINCIPLES.md) · [Responsible AI](https://github.com/Azvelahq/.github/blob/main/docs/RESPONSIBLE_AI.md) · [Security](https://github.com/Azvelahq/.github/blob/main/SECURITY.md) · [Contributing](https://github.com/Azvelahq/.github/blob/main/CONTRIBUTING.md)
+**People first.** Design for agency, accessibility and meaningful connection.  
+**Privacy by design.** Earn trust through deliberate choices, not promises alone.  
+**Creative freedom.** Make room for individuality without coercion.  
+**Evidence before claims.** Let the work withstand scrutiny.
+
+## Make something that matters.
+
+Curiosity is welcome here. Explore our [public repositories](https://github.com/orgs/Azvelahq/repositories), read our [contribution guide](https://github.com/Azvelahq/.github/blob/main/CONTRIBUTING.md), or learn about our [approach to trust](https://github.com/Azvelahq/.github/blob/main/docs/TRUST.md).
+
+[Security reporting](https://github.com/Azvelahq/.github/blob/main/SECURITY.md) · [Support](https://github.com/Azvelahq/.github/blob/main/SUPPORT.md) · [En español](https://github.com/Azvelahq/.github/blob/main/docs/ES.md)
 
 ---
 
 <div align="center">
-  <sub>Built with imagination. Guided by evidence.</sub><br />
-  <strong>A Future Worth Feeling.</strong>
+  <strong>Imagine more. Build with care.</strong><br />
+  <sub>AZVELA · An idea becoming reality.</sub>
 </div>

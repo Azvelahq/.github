@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "source": "Owner-supplied origin film",
+  "assets": {
+    "azvela-origin-film.mp4": {
+      "bytes": 2296668,
+      "sha256": "8cd136b61e1bb39a63575613e9361c2f53d2573c2b5de89a6016683bc1e778e7",
+      "width": 1280,
+      "height": 720,
+      "video_duration_seconds": 10,
+      "audio": "present, unmodified"
+    },
+    "azvela-origin-poster.jpg": {
+      "bytes": 30510,
+      "sha256": "0c7f94ffbe8f24455528d5e0e9fe8ee92ec0f0d78783ceb45c92aac3d1d50568",
+      "width": 960,
+      "height": 450,
+      "source_time_seconds": 8.5,
+      "crop": "1280x600 from top"
+    },
+    "azvela-origin-preview.gif": {
+      "bytes": 1629750,
+      "sha256": "b9435e5e4424ea514ea4858d6753a65501de7412f43180fa770c62f3f5bca59b",
+      "width": 640,
+      "height": 300,
+      "duration_seconds": 4.6,
+      "loop": false,
+      "audio": "none"
+    }
+  }
+}

@@ -2,7 +2,7 @@
 
 This public checklist contains no secrets or private operational details. An authorized owner should complete these steps before treating the repository as an operational public trust surface.
 
-1. Publish the contents at the root of the public `Azvelahq/.github` repository on `main`. Confirm the organization profile renders correctly.
+1. Publish the contents at the root of the public `Azvelahq/.github` repository on `main`. Confirm the organization profile renders correctly in light and dark themes and at mobile width. Check the static poster, optional motion preview and MP4 link separately.
 2. Enable Issues and private vulnerability reporting for this repository. Test the private reporting entry point from a non-maintainer account without submitting real sensitive information. Establish a monitored private channel and a responsible person for triage. Until verified, do not advertise the channel as operational. Enable private reporting separately in relevant public projects.
 3. Review the contact-only issue form and ensure requests are monitored. Establish a private moderation route. Replace this fallback with a confirmed corporate contact when available.
 4. Confirm that the initial CODEOWNERS account has explicit write access. Replace it with an authorized team once that team exists and has access.
@@ -17,3 +17,7 @@ This public checklist contains no secrets or private operational details. An aut
 Run `python3 scripts/validate_public_repo.py` from the root. The checker verifies a limited set of structural invariants, links to local files, template pairings and pinned action references; it is not a full GitHub schema validator or security scanner.
 
 References: [community defaults](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file), [workflow templates](https://docs.github.com/en/actions/how-tos/reuse-automations/create-workflow-templates), [private reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository).
+
+## Origin film release review
+
+Confirm authorization to publish the complete source film, including its audio and the secondary CORPORATION wordmark, before publication. The poster and silent excerpt omit that secondary line; the full MP4 is unmodified. If the full film is not approved, remove it and its links and update the media manifest and validator before committing. Review audio content for caption or transcript requirements, and evaluate the original visual glitches for photosensitivity. A visual description is included; no audio transcript or WCAG conformance claim has been made.

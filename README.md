@@ -1,10 +1,16 @@
 # Azvela · Public identity and community standards
 
+**A Future Worth Feeling.**
+
+[Explore the origin film](docs/ORIGIN.md) · [Organization profile](https://github.com/Azvelahq) · [En español](docs/ES.md)
+
 This repository is the public home of Azvela's organization profile, engineering principles and community defaults. It is not an internal security handbook or a production authorization system.
 
 | Resource | Purpose |
 | --- | --- |
 | [Organization profile](profile/README.md) | Public introduction |
+| [Origin film](docs/ORIGIN.md) | Brand film, motion preview and visual description |
+| [Spanish introduction](docs/ES.md) | Accessible introduction in Spanish |
 | [Security policy](SECURITY.md) | Coordinated vulnerability reporting |
 | [Contribution guide](CONTRIBUTING.md) | How to propose changes |
 | [Code of conduct](CODE_OF_CONDUCT.md) | Community expectations |
